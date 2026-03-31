@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # This script displays basic system information
 
-STUDENT_NAME="Kunj Bhardwaj"
+STUDENT_NAME="Mrigank"
 SOFTWARE_CHOICE="python"
 
 # Get system details
