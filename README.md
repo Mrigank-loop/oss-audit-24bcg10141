@@ -96,11 +96,11 @@ bash manifesto_generator.sh # Follow interactive prompts
 ## Testing Environment
 
 - **Ubuntu 22.04**: `sudo apt install apache2`
-- 
+  
 - **Fedora/RHEL**: `sudo dnf install httpd`
-- 
+  
 - All scripts **run without sudo** except Apache installation for Script 4 testing.
-- 
+  
 
 
 ## Screenshots
